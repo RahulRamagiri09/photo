@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaInstagram, FaYoutube, FaLinkedin, FaEnvelope, FaWhatsapp } from 'react-icons/fa';
+import { FaInstagram, FaYoutube, FaEnvelope, FaWhatsapp } from 'react-icons/fa';
 
 const ContactUs = () => {
   const socialMediaLinks = [
