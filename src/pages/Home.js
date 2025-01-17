@@ -45,12 +45,13 @@ const Home = () => {
         <CardList />
       </div>      
       <Description />
-      <AboutUs />
       <div className="py-16 bg-gray-100">
         <ContactUs />
       </div>
-      <DeveloperCard />
+      <AboutUs />
       <Inquiry />
+      <DeveloperCard />
+      
       
     </div>
   );

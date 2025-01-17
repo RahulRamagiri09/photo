@@ -81,18 +81,21 @@ const GalleryPage = () => {
         `${process.env.PUBLIC_URL}/media/wedding/m3.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m4.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m5.jpg`,
+        `${process.env.PUBLIC_URL}/media/wedding/m36.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m7.jpg`,
-        `${process.env.PUBLIC_URL}/media/wedding/m8.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m1.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m6.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m9.jpg`,
+
         `${process.env.PUBLIC_URL}/media/wedding/m10.jpg`,
+        `${process.env.PUBLIC_URL}/media/wedding/m37.jpg`,
+        `${process.env.PUBLIC_URL}/media/wedding/m38.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m11.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m12.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m13.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m14.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m15.jpg`,
-        `${process.env.PUBLIC_URL}/media/wedding/m16.jpg`,
+        `${process.env.PUBLIC_URL}/media/wedding/m8.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m17.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m18.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m19.jpg`,
@@ -107,12 +110,18 @@ const GalleryPage = () => {
         `${process.env.PUBLIC_URL}/media/wedding/m27.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m28.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m29.jpg`,
+
         `${process.env.PUBLIC_URL}/media/wedding/m30.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m31.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m32.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m33.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m34.jpg`,
+        `${process.env.PUBLIC_URL}/media/wedding/m16.jpg`,
+        `${process.env.PUBLIC_URL}/media/wedding/m39.jpg`,
         `${process.env.PUBLIC_URL}/media/wedding/m35.jpg`,
+        `${process.env.PUBLIC_URL}/media/wedding/m40.jpg`,
+        `${process.env.PUBLIC_URL}/media/wedding/m41.jpg`,
+        
       
     ],
     3: [
@@ -128,8 +137,12 @@ const GalleryPage = () => {
         `${process.env.PUBLIC_URL}/media/reception/r9.jpg`,
         `${process.env.PUBLIC_URL}/media/reception/r10.jpg`,
         `${process.env.PUBLIC_URL}/media/reception/r11.jpg`,
-        `${process.env.PUBLIC_URL}/media/reception/r12.jpg`,
+        `${process.env.PUBLIC_URL}/media/reception/r15.jpg`,
+        `${process.env.PUBLIC_URL}/media/reception/r14.jpg`,
+        `${process.env.PUBLIC_URL}/media/reception/r16.jpg`,
+        `${process.env.PUBLIC_URL}/media/reception/r17.jpg`,
         `${process.env.PUBLIC_URL}/media/reception/r13.jpg`,
+        `${process.env.PUBLIC_URL}/media/reception/r12.jpg`,
       
     ],
     4: [
@@ -156,11 +169,16 @@ const GalleryPage = () => {
         `${process.env.PUBLIC_URL}/media/haldi/h3.jpg`,
         `${process.env.PUBLIC_URL}/media/haldi/h21.jpg`,
         `${process.env.PUBLIC_URL}/media/haldi/h22.jpg`,
+        `${process.env.PUBLIC_URL}/media/haldi/h23.jpg`,
       ],
       5: [
         // Sangeeth
         `${process.env.PUBLIC_URL}/media/sangeeth/s1.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s2.jpg`,
+        `${process.env.PUBLIC_URL}/media/sangeeth/s24.jpg`,
+        `${process.env.PUBLIC_URL}/media/sangeeth/s25.jpg`,
+        `${process.env.PUBLIC_URL}/media/sangeeth/s21.jpg`,
+        `${process.env.PUBLIC_URL}/media/sangeeth/s26.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s3.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s4.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s5.jpg`,
@@ -173,14 +191,15 @@ const GalleryPage = () => {
         `${process.env.PUBLIC_URL}/media/sangeeth/s12.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s13.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s14.jpg`,
-        `${process.env.PUBLIC_URL}/media/sangeeth/s15.jpg`,
+        // `${process.env.PUBLIC_URL}/media/sangeeth/s15.jpg`,
+        `${process.env.PUBLIC_URL}/media/sangeeth/s23.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s16.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s17.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s18.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s19.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s20.jpg`,
-        `${process.env.PUBLIC_URL}/media/sangeeth/s21.jpg`,
         `${process.env.PUBLIC_URL}/media/sangeeth/s22.jpg`,
+        `${process.env.PUBLIC_URL}/media/sangeeth/s27.jpg`,
       ],
       6: [
         // Pre-Birthday
@@ -223,12 +242,22 @@ const GalleryPage = () => {
         // `${process.env.PUBLIC_URL}/media/maternity/b2.jpg`,
       ],
       8: [
-        `${process.env.PUBLIC_URL}/media/default.jpg`,
+        `${process.env.PUBLIC_URL}/media/event/e1.jpg`,
+        `${process.env.PUBLIC_URL}/media/event/e2.jpg`,
+        `${process.env.PUBLIC_URL}/media/event/e3.jpg`,
         // Event Photography
       ],
       9: [
         // Government Projects
-        `${process.env.PUBLIC_URL}/media/default.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g1.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g2.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g3.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g4.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g5.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g6.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g7.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g8.jpg`,
+        `${process.env.PUBLIC_URL}/media/government/g9.jpg`,
       ],
       10: [
         // Corporate Shoots
@@ -257,21 +286,30 @@ const GalleryPage = () => {
         // Marketing & Media
         `${process.env.PUBLIC_URL}/media/marketMedia/mm1.jpg`,
         `${process.env.PUBLIC_URL}/media/marketMedia/mm2.jpg`,
+        `${process.env.PUBLIC_URL}/media/marketMedia/mm3.jpg`,
+        `${process.env.PUBLIC_URL}/media/marketMedia/mm4.jpg`,
+        `${process.env.PUBLIC_URL}/media/marketMedia/mm5.jpg`,
+        // `${process.env.PUBLIC_URL}/media/marketMedia/mm2.jpg`,
       ],
       13: [
         // Real Estate
         `${process.env.PUBLIC_URL}/media/realestate/r1.jpg`,
+        `${process.env.PUBLIC_URL}/media/realestate/r2.jpg`,
+        `${process.env.PUBLIC_URL}/media/realestate/r3.jpg`,
+        `${process.env.PUBLIC_URL}/media/realestate/r4.jpg`,
       ],
       14: [
         // Maternity & Baby Shoot
         `${process.env.PUBLIC_URL}/media/maternity/b1.jpg`,
         `${process.env.PUBLIC_URL}/media/maternity/b2.jpg`,
-        `${process.env.PUBLIC_URL}/media/maternity/b3.jpg`,
-        `${process.env.PUBLIC_URL}/media/maternity/b4.jpg`,
+        
         `${process.env.PUBLIC_URL}/media/maternity/b5.jpg`,
         `${process.env.PUBLIC_URL}/media/maternity/b6.jpg`,
         `${process.env.PUBLIC_URL}/media/maternity/b7.jpg`,
         `${process.env.PUBLIC_URL}/media/maternity/b8.jpg`,
+        `${process.env.PUBLIC_URL}/media/maternity/b4.jpg`,
+        `${process.env.PUBLIC_URL}/media/maternity/b3.jpg`,
+        
         // `${process.env.PUBLIC_URL}/media/maternity/b9.jpg`,
         // `${process.env.PUBLIC_URL}/media/maternity/b10.jpg`,
         // `${process.env.PUBLIC_URL}/media/maternity/b11.jpg`,
@@ -295,6 +333,10 @@ const GalleryPage = () => {
         `${process.env.PUBLIC_URL}/media/drone/d2.jpg`,
         `${process.env.PUBLIC_URL}/media/drone/d3.jpg`,
         `${process.env.PUBLIC_URL}/media/drone/d4.jpg`,
+        `${process.env.PUBLIC_URL}/media/drone/d1.jpg`,
+        `${process.env.PUBLIC_URL}/media/drone/d22.jpg`,
+        `${process.env.PUBLIC_URL}/media/drone/d23.jpg`,
+        `${process.env.PUBLIC_URL}/media/drone/d24.jpg`,
         `${process.env.PUBLIC_URL}/media/drone/d5.jpg`,
         `${process.env.PUBLIC_URL}/media/drone/d6.jpg`,
         `${process.env.PUBLIC_URL}/media/drone/d7.jpg`,
@@ -311,6 +353,9 @@ const GalleryPage = () => {
         `${process.env.PUBLIC_URL}/media/drone/d18.jpg`,
         `${process.env.PUBLIC_URL}/media/drone/d19.jpg`,
         `${process.env.PUBLIC_URL}/media/drone/d20.jpg`,
+        
+        `${process.env.PUBLIC_URL}/media/drone/d25.jpg`,
+        // `${process.env.PUBLIC_URL}/media/drone/d26.jpg`,
       ],
       17: [
         // engagement
@@ -335,6 +380,8 @@ const GalleryPage = () => {
         `${process.env.PUBLIC_URL}/media/engagement/e19.jpg`,
         `${process.env.PUBLIC_URL}/media/engagement/e20.jpg`,
         `${process.env.PUBLIC_URL}/media/engagement/e21.jpg`,
+        `${process.env.PUBLIC_URL}/media/engagement/e22.jpg`,
+        `${process.env.PUBLIC_URL}/media/engagement/e23.jpg`,
       ],
       
 
