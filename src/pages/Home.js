@@ -1,17 +1,3 @@
-// import React from 'react';
-// import Hero from '../components/Hero';
-// import Gallery from '../components/Gallery';
-
-// const Home = () => {
-//   return (
-//     <>
-//       <Hero />
-//       <Gallery />
-//     </>
-//   );
-// };
-
-// export default Home;
 import React from 'react';
 import CardList from '../components/CardList';
 import ContactUs from '../components/ContactUs';
@@ -19,6 +5,7 @@ import Description from '../components/Description';
 import AboutUs from './About';
 import DeveloperCard from '../components/DeveloperCard';
 import Inquiry from '../components/Inquiry';
+import Videos from '../components/Videos';
 
 const Home = () => {
   return (
@@ -44,13 +31,16 @@ const Home = () => {
       <div className="py-16 bg-gray-100">
         <CardList />
       </div>      
+      
       <Description />
+      <Videos />
       <div className="py-16 bg-gray-100">
         <ContactUs />
       </div>
       <AboutUs />
       <Inquiry />
       <DeveloperCard />
+      
       
       
     </div>
